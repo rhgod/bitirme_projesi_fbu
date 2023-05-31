@@ -21,3 +21,5 @@
 
 ### FER2013 data seti
 - https://www.kaggle.com/msambare/fer2013
+
+### Evrim Arda Kalafat - 2023
