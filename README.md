@@ -15,6 +15,7 @@
 ### Projeyi nasıl çalıştırabilirim
 
 - Tüm kütüphaneleri yükleyin.
+- Bir `data` klasörü oluşturup indirdiğiniz FER2013 veri setini `test` ve `train` olarak iki ayrı klasörde ekleyin.
 - Modeli eğitmek için `python TrainModel.py` çalıştırın.
 - Eğitilmiş modeli kullanmak için çıktıları `model` klasörüne ekleyin.
 - Modeli test etmek için `python TestDlib.py` çalıştırın.
