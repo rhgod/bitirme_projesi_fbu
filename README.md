@@ -11,6 +11,7 @@
 - `model` klasörü, eğitilmiş model yapısı ve ağırlıklarını içerir.
 - `TestDlib.py`, modeli test etmek için çalıştırılacak ana dosyadır.
 - `TrainModel.py`, modeli eğitmek için çalıştırılacak ana dosyadır.
+- `TestCascade.py`, modeli test etmek için çalıştırılabilir fakat doğruluk oranı daha az bir yüz tanıma algoritması kullanır.
 
 ### Projeyi nasıl çalıştırabilirim
 
